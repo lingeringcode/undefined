@@ -3,13 +3,6 @@
     Code response to/iteration of @DanielleSucher's 
     'Jailbreak the Patriarchy' web browser extension 
     for Chrome.
-
-    To run it in Chrome:
-    1. Download it.
-    2. Open Chrome and goto: chrome://extensions/
-    3. Click "Load unpacked extension"
-    4. Navigate/find the folder
-    5. Click "Open" to unpack
 ==================================================*/
 var simplyNothing = { };
 var moreNothing = { };
