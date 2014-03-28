@@ -4,7 +4,7 @@
 
 This Chrome extension marks all text on a page as 'undefined.' It is a (quirky) response to @DanielleSucher's Jailbreak the Patriarchy (JTP) extension.
 
-Rather than swap gendered pronouns, as does JTP, this extension exploits the way javascript and the web browser deal with the empty associative arrays. Since the arrays are all declared, but empty, they are interpreted as "undefined." So, instead of replacing any words with the regex .replace() method, it graciously appends "undefined" before every single word within the <body> of the page.
+Rather than swap gendered pronouns, as does JTP, this extension exploits the way javascript and the web browser deal with the empty associative arrays. Since the arrays are all declared, but empty, they are interpreted as "undefined." So, instead of replacing any words with the regex .replace() method, it graciously appends "undefined" before every single word within the body of the page.
 
 ##Commentary
 
